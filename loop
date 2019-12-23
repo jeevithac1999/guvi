@@ -1,0 +1,19 @@
+#Write a program to print all natural numbers from 1 to n. - using while loop
+
+#program
+
+i=1
+n=int(input("enter n:"))
+while(i<=n):
+    print(i)
+    i+=1
+
+'''output
+enter n:5
+1
+2
+3
+4
+5
+'''
+
