@@ -1,4 +1,4 @@
-n=int(input("enter which multiplication table:"))
+n=int(input("enter n:"))
 f=n
 while(f>=10):
     f=f//10
